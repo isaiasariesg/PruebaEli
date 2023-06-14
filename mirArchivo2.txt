@@ -2,3 +2,4 @@ Este es el archivo 2 lispo para usarse
 solo tiene tres <i class="fa fa-linkedin-square
 " aria-hidden="true"></i>
 ya le estoy agregando una linea extra
+una mas, jeje
